@@ -1,4 +1,4 @@
-import { ricardoImages, MainRicardoImage, ricardoResume } from 'javascript/data.js';
+import { ricardoImages, MainRicardoImage, ricardoResume } from './data.js';
 
 //Dom Elements-------------------------------------------------------------------------------------------------------------------------------------
 //Photo Elements
