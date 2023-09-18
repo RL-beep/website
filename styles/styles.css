@@ -72,6 +72,10 @@ a{
     margin-right: 0.7em;
 }
 
+.header-right-nav{
+    font-size: 1rem;
+}
+
 .header-right-nav:hover {
     text-decoration: none;
     position: relative;
@@ -200,12 +204,14 @@ a{
 footer {
     background-color: #1A1A1A;
     height: 4em;
+    position: relative;
 }
 
 .website-footer{
     padding: 0.75em;
     display: flex;
     align-items: center;
+    display: flex;
 }
 
 #download-resume-button {
@@ -220,8 +226,9 @@ footer {
 }
 
 .external-links{
-    margin-left: auto;
     font-size: 1.5em;
+    display: inline-block;
+    font-size: 200%;
 }
 
 .external-links:hover{
@@ -230,6 +237,10 @@ footer {
 
 .fa-brands{
     color: whitesmoke;
+}
+
+.fa-github{
+    margin-right:0.2em;
 }
 
 .download-resume-button-text{
