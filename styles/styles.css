@@ -32,7 +32,7 @@ a{
     left: 0;
     width: 100%;
     z-index: 1;
-    align-items: center; 
+    align-items: center;
 }
 
 
@@ -199,6 +199,12 @@ a{
     font-family: 'Bitter', serif;
     font-family: 'Maven Pro', sans-serif;
     font-family: 'Montserrat', sans-serif;
+}
+
+#front-page-plug{
+    color: whitesmoke;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-style: italic;
 }
 
 footer {
