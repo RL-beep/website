@@ -39,7 +39,7 @@ export const MainRicardoImage =
     ]
 
     export const ricardoResume = [{
-        path: "files/RL 2023.pdf",
+        path: "files/CV - RL 2023.pdf",
         name:"Ricardo Lopes 2023.pdf",
         year: "2023"
     }]
